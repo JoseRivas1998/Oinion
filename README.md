@@ -31,6 +31,7 @@ Android SDK: [Path to your Android SDK]
 7. Use Reconmended Build Tools
 
 ### Set up Git
+Fork this repository.
 Copy the .git link on the right hand side of your fork of the repository. Open GitShell and cd to your project's folder. Type in the following commands:
 ```
 git init
